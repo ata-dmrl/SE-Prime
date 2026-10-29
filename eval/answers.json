@@ -1,0 +1,22 @@
+[
+  {"id":1,"decisionId":"d1","text":"Şemayı kontrol ederim, migration çalıştı mı bakarım."},
+  {"id":2,"decisionId":"d1","text":"Bence geri dönmek lazım ama emin değilim."},
+  {"id":3,"decisionId":"d1","text":"Doğru cevabı söyler misin, A mı B mi?"},
+  {"id":4,"decisionId":"d1","text":"Yedek var mı ona bakarım önce."},
+  {"id":5,"decisionId":"d1","text":"Canlıda hızlıca yama atarım, hasta bekliyor."},
+  {"id":6,"decisionId":"d1","text":"Bilmiyorum."},
+  {"id":7,"decisionId":"d1","text":"Log dosyalarına bakıp kök nedeni bulurum."},
+  {"id":8,"decisionId":"d2","text":"Smoke test koşarım, beş dakika sürer."},
+  {"id":9,"decisionId":"d2","text":"Hemen yayına alırım, hastalar bekliyor, risk kabul."},
+  {"id":10,"decisionId":"d2","text":"Hangisini seçmeliyim, ne yapmalıyım?"},
+  {"id":11,"decisionId":"d2","text":"Pipeline otomatik test çalıştırıyor zaten."},
+  {"id":12,"decisionId":"d2","text":"Yayından sonra sorun çıkarsa geri alırım, canlıda izlerim."},
+  {"id":13,"decisionId":"d2","text":"Bugün hava çok güzel."},
+  {"id":14,"decisionId":"d3","text":"Hasta adı kişisel veri, KVKK var, maskelerim."},
+  {"id":15,"decisionId":"d3","text":"Hemen olduğu gibi atarım, acil."},
+  {"id":16,"decisionId":"d3","text":"Cevabı söyle gitsin."},
+  {"id":17,"decisionId":"d3","text":"Kanalda danışmanlar var, erişimi kısıtlarım."},
+  {"id":18,"decisionId":"d3","text":"Anlamadım, neden önemli?"},
+  {"id":19,"decisionId":"d3","text":"I think masking is enough?"},
+  {"id":20,"decisionId":"d3","text":"Sağlık verisi özel nitelikli, anonimleştirmek gerekir."}
+]

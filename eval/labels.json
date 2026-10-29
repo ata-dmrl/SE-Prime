@@ -1,0 +1,22 @@
+{
+"1":{"type":"OK","note":"Şema kavramını kullandı, bir adım derine indi"},
+"2":{"type":"OK","note":"v1'de 'emin değilim' yüzünden GENERIC idi; sıra düzeltildi"},
+"3":{"type":"OK","note":"Cevabı reddetti, soru sordu"},
+"4":{"type":"OK","note":""},
+"5":{"type":"OK","note":"Riskli seçimi yargılamadan sorguladı"},
+"6":{"type":"OK","note":"Küçük adım sorusu"},
+"7":{"type":"OK","note":""},
+"8":{"type":"OK","note":""},
+"9":{"type":"OK","note":""},
+"10":{"type":"OK","note":"Cevabı reddetti"},
+"11":{"type":"OK","note":""},
+"12":{"type":"OK","note":""},
+"13":{"type":"GENERIC","note":"Alakasız girdiye jenerik soru; konuya geri çekmiyor"},
+"14":{"type":"OK","note":""},
+"15":{"type":"OK","note":""},
+"16":{"type":"OK","note":"Cevabı reddetti"},
+"17":{"type":"OK","note":""},
+"18":{"type":"OK","note":""},
+"19":{"type":"OK","note":"v1'de İngilizce 'mask' tanınmadı (GENERIC); anahtar kelime eklendi"},
+"20":{"type":"OK","note":""}
+}
